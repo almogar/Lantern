@@ -1,0 +1,2 @@
+E:\Download\Mustachio_5_4_20\Mustachio_3_9_20\Lantern_V1\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\Download\Mustachio_5_4_20\Mustachio_3_9_20\Lantern_V1\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

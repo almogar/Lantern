@@ -1,0 +1,24 @@
+
+=== Wed Feb 24 20:37:21 2021
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were updated:
+  com.unity.2d.animation from version 5.0.3 to 5.0.4
+  com.unity.2d.spriteshape from version 5.1.0 to 5.1.1
+  com.unity.render-pipelines.universal from version 10.2.2 to 10.3.1
+  com.unity.test-framework from version 1.1.20 to 1.1.22
+  com.unity.timeline from version 1.4.4 to 1.4.6
+
+=== Wed Feb 24 21:21:33 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.2d.animation from version 5.0.3 to 5.0.4
+  com.unity.2d.spriteshape from version 5.1.0 to 5.1.1
+  com.unity.render-pipelines.universal from version 10.2.2 to 10.3.1
+  com.unity.test-framework from version 1.1.20 to 1.1.22
+  com.unity.timeline from version 1.4.4 to 1.4.6

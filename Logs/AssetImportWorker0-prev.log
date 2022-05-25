@@ -1,0 +1,1083 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.6f1 (8a2143876886) revision 9052483'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 19044.1645; Version 2009; 64bit' Language: 'en' Physical Memory: 16317 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Download/Mustachio_5_4_20/Mustachio_3_9_20/Lantern_V1
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59255
+Successfully changed project path to: E:/Download/Mustachio_5_4_20/Mustachio_3_9_20/Lantern_V1
+E:/Download/Mustachio_5_4_20/Mustachio_3_9_20/Lantern_V1
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 62.89 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.6f1 (8a2143876886)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Download/Mustachio_5_4_20/Mustachio_3_9_20/Lantern_V1/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   
+    VRAM:     4043 MB
+    Driver:   30.0.15.1165
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56628
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002721 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 62.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.835 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001587 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 66.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.179 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2946 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.7 MB.
+System memory in use after: 128.9 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3392.
+Total: 2.720000 ms (FindLiveObjects: 0.388200 ms CreateObjectMapping: 0.093000 ms MarkObjects: 2.139500 ms  DeleteObjects: 0.098100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Graphics/UniversalRenderPipelineAsset_Renderer.asset
+  artifactKey: Guid(70e7ac7a65587894d85c4308b897364f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/UniversalRenderPipelineAsset_Renderer.asset using Guid(70e7ac7a65587894d85c4308b897364f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00ad1b39624349a1c7907442e41b5226') in 0.059060 seconds
+  Import took 0.063866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Graphics/World/LanternCheckpoint
+  artifactKey: Guid(8ae0e9a4b8203374884a1cdd263e4f55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/World/LanternCheckpoint using Guid(8ae0e9a4b8203374884a1cdd263e4f55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8922e254334330354af32f8fcdfa1718') in 0.010835 seconds
+  Import took 0.015457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Graphics/UniversalRenderPipelineAsset.asset
+  artifactKey: Guid(9de62c8889946254dbc9ca4691dc07ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/UniversalRenderPipelineAsset.asset using Guid(9de62c8889946254dbc9ca4691dc07ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14f8c39be81b5f05ccfa04e5071b92d1') in 0.011728 seconds
+  Import took 0.016162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Graphics/World
+  artifactKey: Guid(bb1389986a79c68499f5ad59bfd885a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/World using Guid(bb1389986a79c68499f5ad59bfd885a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9332820037b06490b7baec01351d6a10') in 0.004793 seconds
+  Import took 0.009075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Graphics/New 2D Renderer Data.asset
+  artifactKey: Guid(28aa636901dbbe4459a824f89293441f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/New 2D Renderer Data.asset using Guid(28aa636901dbbe4459a824f89293441f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e287f41ac7b24afd63b113c894d8dd8') in 0.007736 seconds
+  Import took 0.012215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.653517 seconds.
+  path: Assets/Graphics/Player/SkullGuide/SkullGuide_V1.png
+  artifactKey: Guid(469745182825e0f4e8e5e167818137cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Player/SkullGuide/SkullGuide_V1.png using Guid(469745182825e0f4e8e5e167818137cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2af3184155e16f8518fe5ff72ef1192c') in 0.138127 seconds
+  Import took 0.142948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Graphics/Player/SkullGuide/SkullGuide_v2.png
+  artifactKey: Guid(9f618fa62712ff245b25b0439debeec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Player/SkullGuide/SkullGuide_v2.png using Guid(9f618fa62712ff245b25b0439debeec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5461a4a469a1ef08690f9b5f9d5a4a02') in 0.016914 seconds
+  Import took 0.035650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Graphics/Player/SkullGuide/SkullGuide_v2 1.png
+  artifactKey: Guid(ebf2f5f56eb4cf04b8151898f3e0e53f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Player/SkullGuide/SkullGuide_v2 1.png using Guid(ebf2f5f56eb4cf04b8151898f3e0e53f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '894e9bcff0c7d82f870141960c698d73') in 0.032151 seconds
+  Import took 0.036955 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 2.11 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.6 MB.
+System memory in use after: 69.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 3400.
+Total: 3.247900 ms (FindLiveObjects: 0.314000 ms CreateObjectMapping: 0.085200 ms MarkObjects: 2.824200 ms  DeleteObjects: 0.023300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001633 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.094 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2830 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.3 MB.
+System memory in use after: 125.5 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3403.
+Total: 2.664700 ms (FindLiveObjects: 0.326400 ms CreateObjectMapping: 0.082700 ms MarkObjects: 2.229500 ms  DeleteObjects: 0.024200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001760 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.063 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2830 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.3 MB.
+System memory in use after: 125.5 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3406.
+Total: 3.368800 ms (FindLiveObjects: 0.376900 ms CreateObjectMapping: 0.095600 ms MarkObjects: 2.868000 ms  DeleteObjects: 0.026800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 184.458643 seconds.
+  path: Assets/Graphics/Lantern/LanternLight.prefab
+  artifactKey: Guid(c81d2f641bc8dbd4d959dc183aae7b0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Lantern/LanternLight.prefab using Guid(c81d2f641bc8dbd4d959dc183aae7b0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '392326b4f63e21658ec576174cb7ece7') in 0.028431 seconds
+  Import took 0.033257 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001712 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.058 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2830 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.4 MB.
+System memory in use after: 125.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3409.
+Total: 5.395500 ms (FindLiveObjects: 0.648200 ms CreateObjectMapping: 0.158400 ms MarkObjects: 4.551600 ms  DeleteObjects: 0.034500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 134.219579 seconds.
+  path: Assets/Graphics/World/SkullGuideHole/Candles.gif
+  artifactKey: Guid(68e90c204f1fd5448bf1c4b37b6cf32e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/World/SkullGuideHole/Candles.gif using Guid(68e90c204f1fd5448bf1c4b37b6cf32e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c89768078934a880bffde865fc1db40') in 0.137971 seconds
+  Import took 0.143181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Graphics/World/SkullGuideHole/SkullGuideHole_Exit 1.png
+  artifactKey: Guid(885dce03a22b6c54091a80c2bd987d00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/World/SkullGuideHole/SkullGuideHole_Exit 1.png using Guid(885dce03a22b6c54091a80c2bd987d00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02acbb9f073c3e4e5a6c68531104e395') in 0.054267 seconds
+  Import took 0.058749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Graphics/World/SkullGuideHole/SkullGuideHole_Exit_Mask.png
+  artifactKey: Guid(efdf79176d804c047bf9f4134d871e2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/World/SkullGuideHole/SkullGuideHole_Exit_Mask.png using Guid(efdf79176d804c047bf9f4134d871e2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9614997594c1a2d20e569e61c397e22f') in 0.048257 seconds
+  Import took 0.052514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Graphics/World/SkullGuideHole/SkullGuideHole_Exit_V4.png
+  artifactKey: Guid(256be08e79517374f970f337c936af35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/World/SkullGuideHole/SkullGuideHole_Exit_V4.png using Guid(256be08e79517374f970f337c936af35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '871bb08b1af182878a1810f2d4222892') in 0.019521 seconds
+  Import took 0.037997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Graphics/World/SkullGuideHole/SkullGuideHole_Exit_V2.png
+  artifactKey: Guid(19bb0e440495001418075407b9a10494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/World/SkullGuideHole/SkullGuideHole_Exit_V2.png using Guid(19bb0e440495001418075407b9a10494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09bdc8231dfa4156c7027bd7b119f7bd') in 0.054425 seconds
+  Import took 0.058657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Graphics/World/SkullGuideHole/SkullGuideHole_Exit_Mask_Top.png
+  artifactKey: Guid(91f49acc727ee3e40984162c32152743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/World/SkullGuideHole/SkullGuideHole_Exit_Mask_Top.png using Guid(91f49acc727ee3e40984162c32152743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c4307aa9d66a7dd19b0a6141776dbd8') in 0.060834 seconds
+  Import took 0.065150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Graphics/World/SkullGuideHole/SkullGuideHole_Exit_V3.png
+  artifactKey: Guid(9b91477d61ee7b94b8e7f619dd58a1f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/World/SkullGuideHole/SkullGuideHole_Exit_V3.png using Guid(9b91477d61ee7b94b8e7f619dd58a1f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '903bf80955230078561a428b0182c4cf') in 0.058457 seconds
+  Import took 0.062814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Graphics/World/SkullGuideHole/SkullGuideHole_Exit_Mask_V2.png
+  artifactKey: Guid(c358843dc59d0664dab5bc6f987cfc80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/World/SkullGuideHole/SkullGuideHole_Exit_Mask_V2.png using Guid(c358843dc59d0664dab5bc6f987cfc80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d6740a8680ae6454e3aa230b77553d1') in 0.021980 seconds
+  Import took 0.026336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Graphics/World/SkullGuideHole/SkullGuideHole_SideWall_V1.png
+  artifactKey: Guid(b5b9f846e9e50e845bea3654261d0fd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/World/SkullGuideHole/SkullGuideHole_SideWall_V1.png using Guid(b5b9f846e9e50e845bea3654261d0fd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ceb8e4a2d91610f0b8cd1533a49b719f') in 0.023502 seconds
+  Import took 0.028049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Graphics/World/SkullGuideHole/SkullGuideHole_Exit_Mask_V2.png
+  artifactKey: Guid(c358843dc59d0664dab5bc6f987cfc80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/World/SkullGuideHole/SkullGuideHole_Exit_Mask_V2.png using Guid(c358843dc59d0664dab5bc6f987cfc80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d6740a8680ae6454e3aa230b77553d1') in 0.008279 seconds
+  Import took 0.013026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Graphics/World/SkullGuideHole/SkullGuideHole_SideWall_V1.png
+  artifactKey: Guid(b5b9f846e9e50e845bea3654261d0fd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/World/SkullGuideHole/SkullGuideHole_SideWall_V1.png using Guid(b5b9f846e9e50e845bea3654261d0fd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ceb8e4a2d91610f0b8cd1533a49b719f') in 0.008307 seconds
+  Import took 0.012965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Graphics/World/SkullGuideHole/WallCave.png
+  artifactKey: Guid(94fc3e9236c49f047b28ab5bc5fcaf83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/World/SkullGuideHole/WallCave.png using Guid(94fc3e9236c49f047b28ab5bc5fcaf83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85067bcdffe410afc8784666a99714a0') in 0.021859 seconds
+  Import took 0.026602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.680315 seconds.
+  path: Assets/Graphics/World/SkullGuideHole/Square.prefab
+  artifactKey: Guid(7c226219fe904374db572734c94097b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/World/SkullGuideHole/Square.prefab using Guid(7c226219fe904374db572734c94097b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '877ec080d51ddaa2ff93349d13eeb557') in 0.165269 seconds
+  Import took 0.170183 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001822 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.123 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2830 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.6 MB.
+System memory in use after: 127.8 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3466.
+Total: 3.371200 ms (FindLiveObjects: 0.316600 ms CreateObjectMapping: 0.081800 ms MarkObjects: 2.940400 ms  DeleteObjects: 0.030700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001717 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.116 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2830 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.6 MB.
+System memory in use after: 127.8 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3469.
+Total: 2.681300 ms (FindLiveObjects: 0.312600 ms CreateObjectMapping: 0.084700 ms MarkObjects: 2.257900 ms  DeleteObjects: 0.024800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 331.885634 seconds.
+  path: Assets/Graphics
+  artifactKey: Guid(a35cf0d5d982df140a594bb148782e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics using Guid(a35cf0d5d982df140a594bb148782e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6abacf8794eb6a213efe17b8b7ff7e7') in 0.074009 seconds
+  Import took 0.089550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.456553 seconds.
+  path: Assets/Graphics/trees
+  artifactKey: Guid(2d6e7a6a914ba094eaae0795c90ad24b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/trees using Guid(2d6e7a6a914ba094eaae0795c90ad24b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8d3c71e38f35cca8f4224b42f2f776c') in 0.002595 seconds
+  Import took 0.007334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.804688 seconds.
+  path: Assets/Graphics/trees/TreeFront.png
+  artifactKey: Guid(a6926a52657517340b61838ba7ded462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/trees/TreeFront.png using Guid(a6926a52657517340b61838ba7ded462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2aa7f8e175ab7cf49f59fc445d047df') in 0.056256 seconds
+  Import took 0.061114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/Graphics/trees/TreesBackV2.png
+  artifactKey: Guid(7eb4ceb7b30907849b15785a5eb4ad78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/trees/TreesBackV2.png using Guid(7eb4ceb7b30907849b15785a5eb4ad78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a76bd1537262133db3b6739610c08c04') in 0.012264 seconds
+  Import took 0.016655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Graphics/trees/TreesBack.png
+  artifactKey: Guid(e89e0dd8697f11c4a8bb777ed91e5531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/trees/TreesBack.png using Guid(e89e0dd8697f11c4a8bb777ed91e5531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e4b68d829e7feae309d4b82b80bf57e') in 0.009027 seconds
+  Import took 0.013372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Graphics/trees/TreeMid.png
+  artifactKey: Guid(cda3c267439a4d147a6d0386ce1fbd8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/trees/TreeMid.png using Guid(cda3c267439a4d147a6d0386ce1fbd8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc7e292e2d7f5fe34fa745b9ad6ca4c4') in 0.010193 seconds
+  Import took 0.014532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Graphics/trees/TreeFrontV2.png
+  artifactKey: Guid(be075c84dfb22f647a35569e4847e8d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/trees/TreeFrontV2.png using Guid(be075c84dfb22f647a35569e4847e8d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abcf9ed8f9bb0f7127336d2e0281b10b') in 0.008891 seconds
+  Import took 0.013198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.159409 seconds.
+  path: Assets/Graphics/World/SkullGuideHole/SkullGuideHole_Exit.prefab
+  artifactKey: Guid(aa598a8b1afb96e43b5ed4318a5ea3a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/World/SkullGuideHole/SkullGuideHole_Exit.prefab using Guid(aa598a8b1afb96e43b5ed4318a5ea3a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e93010ea66bbde9e8a136d726a59e709') in 0.141241 seconds
+  Import took 0.146153 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001687 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.109 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2830 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.7 MB.
+System memory in use after: 127.9 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3510.
+Total: 3.488900 ms (FindLiveObjects: 0.599600 ms CreateObjectMapping: 0.117400 ms MarkObjects: 2.749100 ms  DeleteObjects: 0.020300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 161.367405 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat
+  artifactKey: Guid(31321ba15b8f8eb4c954353edc038b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat using Guid(31321ba15b8f8eb4c954353edc038b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ba37b3bd0b8fc45b6e1e59f17d1db02') in 0.211441 seconds
+  Import took 0.216570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/ParticlesUnlit.mat
+  artifactKey: Guid(e823cd5b5d27c0f4b8256e7c12ee3e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/ParticlesUnlit.mat using Guid(e823cd5b5d27c0f4b8256e7c12ee3e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b2f0b1f0582f85ed5ed214675d5498b') in 0.013147 seconds
+  Import took 0.017569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/TerrainLit.mat
+  artifactKey: Guid(594ea882c5a793440b60ff72d896021e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/TerrainLit.mat using Guid(594ea882c5a793440b60ff72d896021e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e09d17560a25607f284187ab034fe69d') in 0.015570 seconds
+  Import took 0.020537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/ParticlesUnlit.mat
+  artifactKey: Guid(e823cd5b5d27c0f4b8256e7c12ee3e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/ParticlesUnlit.mat using Guid(e823cd5b5d27c0f4b8256e7c12ee3e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b2f0b1f0582f85ed5ed214675d5498b') in 0.008160 seconds
+  Import took 0.013092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/Sprite-Unlit-Default.mat
+  artifactKey: Guid(9dfc825aed78fcd4ba02077103263b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/Sprite-Unlit-Default.mat using Guid(9dfc825aed78fcd4ba02077103263b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8a536e38dded93afee1820a22b8e250') in 0.060305 seconds
+  Import took 0.065129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/SimpleLit.mat
+  artifactKey: Guid(6a1143ee683302f4aa628c052723efc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/SimpleLit.mat using Guid(6a1143ee683302f4aa628c052723efc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b5b23973b7c95de65ed3b2da8aa045f') in 0.564643 seconds
+  Import took 0.568985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/Sprite-Lit-Default.mat
+  artifactKey: Guid(a97c105638bdf8b4a8650670310a4cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/Sprite-Lit-Default.mat using Guid(a97c105638bdf8b4a8650670310a4cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd73092347282eebdf94d2c0d1f00328a') in 0.014267 seconds
+  Import took 0.031109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/SimpleLit.mat
+  artifactKey: Guid(6a1143ee683302f4aa628c052723efc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/SimpleLit.mat using Guid(6a1143ee683302f4aa628c052723efc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b5b23973b7c95de65ed3b2da8aa045f') in 0.008038 seconds
+  Import took 0.012488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat
+  artifactKey: Guid(31321ba15b8f8eb4c954353edc038b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat using Guid(31321ba15b8f8eb4c954353edc038b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ba37b3bd0b8fc45b6e1e59f17d1db02') in 0.013118 seconds
+  Import took 0.017695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.062365 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Thin.ttf
+  artifactKey: Guid(19a9abb883540be48b75b951a927ae03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Thin.ttf using Guid(19a9abb883540be48b75b951a927ae03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d86cbe0ee3e94f3f7233e268a0b081e') in 0.072853 seconds
+  Import took 0.077881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.192512 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Fonts/Perfect DOS VGA 437.ttf
+  artifactKey: Guid(74a5091d8707f334b9a5c31ef71a64ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Fonts/Perfect DOS VGA 437.ttf using Guid(74a5091d8707f334b9a5c31ef71a64ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dec075520a2344be1262a5b1fec7925') in 0.043850 seconds
+  Import took 0.048890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-BlackItalic.ttf
+  artifactKey: Guid(f95147a9bab9fe649b8070170fa7ebd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-BlackItalic.ttf using Guid(f95147a9bab9fe649b8070170fa7ebd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea8a40c0f46c6b562e01760b69318a5e') in 0.049782 seconds
+  Import took 0.054434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Black.ttf
+  artifactKey: Guid(1062c701058745940ae5dca6219c64c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Black.ttf using Guid(1062c701058745940ae5dca6219c64c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3846a6aa0b631ea4648d6365140bd861') in 0.047058 seconds
+  Import took 0.051544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Regular.ttf
+  artifactKey: Guid(30dc370b164eefc43b95744fc796dad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Regular.ttf using Guid(30dc370b164eefc43b95744fc796dad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44f572a96d400d6cadfeb51423335a93') in 0.050843 seconds
+  Import took 0.055277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.277040 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-BoldItalic.ttf
+  artifactKey: Guid(dfb97a9307a577a41bcacba34b9a7e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-BoldItalic.ttf using Guid(dfb97a9307a577a41bcacba34b9a7e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b9219d8dfb74f8af2944eeac897199f') in 0.035344 seconds
+  Import took 0.040362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Bold.ttf
+  artifactKey: Guid(3750c318f40cab44a97d3a81beaefeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Bold.ttf using Guid(3750c318f40cab44a97d3a81beaefeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f598ec098e7ae797b9da5255168bf870') in 0.053058 seconds
+  Import took 0.057901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-MediumItalic.ttf
+  artifactKey: Guid(d93c1bc57fdf1ac4dad1bf04fac05464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-MediumItalic.ttf using Guid(d93c1bc57fdf1ac4dad1bf04fac05464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '908573032989c93b2165be22ceb79d8e') in 0.159644 seconds
+  Import took 0.164117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Italic.ttf
+  artifactKey: Guid(c839255fc8f6b4b4d90bf8c1af9f9bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Italic.ttf using Guid(c839255fc8f6b4b4d90bf8c1af9f9bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f09f6258f30c90e50edde36c5906db72') in 0.044719 seconds
+  Import took 0.049320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-ThinItalic.ttf
+  artifactKey: Guid(b2ea3b3f1765e544b9eb5bd1a93a91ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-ThinItalic.ttf using Guid(b2ea3b3f1765e544b9eb5bd1a93a91ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da05f64b0331bf4b1c91a08955a13453') in 0.056121 seconds
+  Import took 0.060567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Medium.ttf
+  artifactKey: Guid(a51a3aebb43ac044989270407476b208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Medium.ttf using Guid(a51a3aebb43ac044989270407476b208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1be055162365caecfafd8cb10f4afd0e') in 0.052362 seconds
+  Import took 0.057064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Light.ttf
+  artifactKey: Guid(2a29e27936eb547458f646f71125b264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Light.ttf using Guid(2a29e27936eb547458f646f71125b264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca821aeb9f4e8a1a3cc3f61d9014465f') in 0.047915 seconds
+  Import took 0.052305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-LightItalic.ttf
+  artifactKey: Guid(5e63515167650a541b309ba3bfd4db3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-LightItalic.ttf using Guid(5e63515167650a541b309ba3bfd4db3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4069a1e45e1599e5250dd7b154276ee5') in 0.059108 seconds
+  Import took 0.063522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.317038 seconds.
+  path: Assets/Graphics/Player/Materials
+  artifactKey: Guid(cce17204a82e2514ba2683a12fd33d89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Player/Materials using Guid(cce17204a82e2514ba2683a12fd33d89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b1f7ce86ef4532f872fda2ea87e26a2') in 0.025136 seconds
+  Import took 0.040020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 165.724485 seconds.
+  path: Assets/Graphics/World/SkullGuideHole
+  artifactKey: Guid(63fbe249a55aed64b919022e3371e6eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/World/SkullGuideHole using Guid(63fbe249a55aed64b919022e3371e6eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89c80a199eaa28019ac3ee3285e9d8e8') in 0.022491 seconds
+  Import took 0.128636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.462277 seconds.
+  path: Assets/Graphics/World/cave
+  artifactKey: Guid(41486909a205d984fa3c9411537d3319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/World/cave using Guid(41486909a205d984fa3c9411537d3319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49ce371ca5fdc978fff4b1154d4b1331') in 0.002652 seconds
+  Import took 0.020796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.193791 seconds.
+  path: Assets/Graphics/World/cave/CaveNarrowExport.png
+  artifactKey: Guid(891fb0bd752dc7245bf8ea61c6b951d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/World/cave/CaveNarrowExport.png using Guid(891fb0bd752dc7245bf8ea61c6b951d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e761a2f17f2899307cb17da5c055380') in 0.020085 seconds
+  Import took 0.117573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Graphics/World/cave/RocksTerrein.png
+  artifactKey: Guid(3808b3db2ca29754095edd1ed0860583) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/World/cave/RocksTerrein.png using Guid(3808b3db2ca29754095edd1ed0860583) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5f3a5835dfcddf258b1ab69ff3ea29f') in 0.008450 seconds
+  Import took 0.019116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Graphics/World/cave/Sides.png
+  artifactKey: Guid(d6e161f48dff3be4ab536ee73ba34523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/World/cave/Sides.png using Guid(d6e161f48dff3be4ab536ee73ba34523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ca987e3da979e9621640cc27279c1bf') in 0.011450 seconds
+  Import took 0.021882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.932581 seconds.
+  path: Assets/Graphics/enemys
+  artifactKey: Guid(573685de6094a064c84f7bf6e4faae98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys using Guid(573685de6094a064c84f7bf6e4faae98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1840b919e00c7c9106db3d44308ce70') in 0.002488 seconds
+  Import took 0.016839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.753405 seconds.
+  path: Assets/Graphics/enemys/spider
+  artifactKey: Guid(7c955b64da2a3914faca8ff1fb396551) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider using Guid(7c955b64da2a3914faca8ff1fb396551) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5ac6657f7da31c524838a06ae959974') in 0.002666 seconds
+  Import took 0.010742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 194.530860 seconds.
+  path: Assets/Graphics/enemys/spider/spider.png
+  artifactKey: Guid(5e9b85a78d8bb624bb6fa92748c250e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/spider.png using Guid(5e9b85a78d8bb624bb6fa92748c250e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '449cb6e36067f6a72f86bf7974c0dc21') in 0.012453 seconds
+  Import took 0.059918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 136.652412 seconds.
+  path: Assets/Graphics/enemys/spider/spider1.png
+  artifactKey: Guid(a1ac54c3396244a44930e70eed91dd49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/spider1.png using Guid(a1ac54c3396244a44930e70eed91dd49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3a923085e80486d0de13595d8f7a0ea') in 0.011539 seconds
+  Import took 0.040117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.693209 seconds.
+  path: Assets/Graphics/enemys/spider/spider.png
+  artifactKey: Guid(5e9b85a78d8bb624bb6fa92748c250e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/spider.png using Guid(5e9b85a78d8bb624bb6fa92748c250e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ce2df53a0ce9dfe39f531be69be7627') in 0.008896 seconds
+  Import took 0.031110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.407398 seconds.
+  path: Assets/Graphics/enemys/spider/spider2.png
+  artifactKey: Guid(d3e3f5fffdc96fd41945b0053f77cea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/spider2.png using Guid(d3e3f5fffdc96fd41945b0053f77cea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e36cdb6b51c9110f48b8fe952ee8502') in 0.011384 seconds
+  Import took 0.035681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.932071 seconds.
+  path: Assets/Graphics/enemys/spider/Spider_Idle.png
+  artifactKey: Guid(3c2924e233918cc48b642901ba1c422d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/Spider_Idle.png using Guid(3c2924e233918cc48b642901ba1c422d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '438d03a24362b892de75662f168aa58f') in 0.009026 seconds
+  Import took 0.034880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.733273 seconds.
+  path: Assets/Graphics/enemys/spider/Player.png
+  artifactKey: Guid(65b5187ebeacf9d4e8cd4d6722dba029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/Player.png using Guid(65b5187ebeacf9d4e8cd4d6722dba029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fb3922de0ff0dc5d29944ded505056f') in 0.009060 seconds
+  Import took 0.031037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 87.319695 seconds.
+  path: Assets/Graphics/Player/SkullGuide
+  artifactKey: Guid(317ab9d4e6deffe49a799b959a1b2f93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Player/SkullGuide using Guid(317ab9d4e6deffe49a799b959a1b2f93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa41437d672284a43cf9a754f4636a8a') in 0.018637 seconds
+  Import took 0.035828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 196.966645 seconds.
+  path: Assets/Graphics/enemys/spider/SkullGuide.png
+  artifactKey: Guid(ee5d0daadd000d74d97480d247199373) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/SkullGuide.png using Guid(ee5d0daadd000d74d97480d247199373) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4048dc8454223b6524a6c186d0dcd82') in 0.012570 seconds
+  Import took 0.017591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012111 seconds.
+  path: Assets/Graphics/enemys/spider/SkullGuide.png
+  artifactKey: Guid(ee5d0daadd000d74d97480d247199373) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/SkullGuide.png using Guid(ee5d0daadd000d74d97480d247199373) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4048dc8454223b6524a6c186d0dcd82') in 0.008867 seconds
+  Import took 0.013679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.661986 seconds.
+  path: Assets/Graphics/enemys/spider/spider.png
+  artifactKey: Guid(5e9b85a78d8bb624bb6fa92748c250e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/spider.png using Guid(5e9b85a78d8bb624bb6fa92748c250e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87d77b0ee9c5e37e892b4dfd6cd7c071') in 0.008853 seconds
+  Import took 0.014278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003109 seconds.
+  path: Assets/Graphics/enemys/spider/spider.png
+  artifactKey: Guid(5e9b85a78d8bb624bb6fa92748c250e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/spider.png using Guid(5e9b85a78d8bb624bb6fa92748c250e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87d77b0ee9c5e37e892b4dfd6cd7c071') in 0.008438 seconds
+  Import took 0.013881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 213.796732 seconds.
+  path: Assets/Graphics/enemys/spider/spider4.png
+  artifactKey: Guid(b637995d29f311b4fbe10fe8de3b6532) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/spider4.png using Guid(b637995d29f311b4fbe10fe8de3b6532) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2f35b09ade481e0d6781ad5571e1917') in 0.012837 seconds
+  Import took 0.061853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 118.381791 seconds.
+  path: Assets/Graphics/enemys/spider/spider5.png
+  artifactKey: Guid(da3befcddde742c4388f0ea9823da215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/spider5.png using Guid(da3befcddde742c4388f0ea9823da215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ee6ccfccf24ee524f4c1bcfa3ecd674') in 0.011641 seconds
+  Import took 0.059968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 745.276624 seconds.
+  path: Assets/Graphics/enemys/spider/sprite_0.png
+  artifactKey: Guid(9d364e2c4528894428755a0a62b6596b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/sprite_0.png using Guid(9d364e2c4528894428755a0a62b6596b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2d2a4c40dc8f47e15577da4c208b5e1') in 0.012805 seconds
+  Import took 0.018005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005884 seconds.
+  path: Assets/Graphics/enemys/spider/sprite_0.png
+  artifactKey: Guid(9d364e2c4528894428755a0a62b6596b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/sprite_0.png using Guid(9d364e2c4528894428755a0a62b6596b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2d2a4c40dc8f47e15577da4c208b5e1') in 0.008186 seconds
+  Import took 0.012976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 138.026681 seconds.
+  path: Assets/Graphics/enemys/spider/New Piskel (1).png
+  artifactKey: Guid(50ccf6604ede6c846b1232ceda680e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/New Piskel (1).png using Guid(50ccf6604ede6c846b1232ceda680e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8270c950c5d1fdf18299dd3103b1daec') in 0.012939 seconds
+  Import took 0.029456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001760 seconds.
+  path: Assets/Graphics/enemys/spider/New Piskel (1).png
+  artifactKey: Guid(50ccf6604ede6c846b1232ceda680e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/New Piskel (1).png using Guid(50ccf6604ede6c846b1232ceda680e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8270c950c5d1fdf18299dd3103b1daec') in 0.009443 seconds
+  Import took 0.013941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.388867 seconds.
+  path: Assets/Graphics/enemys/spider/New Piskel (1).png
+  artifactKey: Guid(50ccf6604ede6c846b1232ceda680e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/New Piskel (1).png using Guid(50ccf6604ede6c846b1232ceda680e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ade36d265bfd9a2ac7630e909cf844c0') in 0.011056 seconds
+  Import took 0.028661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1648.395949 seconds.
+  path: Assets/Graphics/enemys/spider/New Piskel (1).png
+  artifactKey: Guid(50ccf6604ede6c846b1232ceda680e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/New Piskel (1).png using Guid(50ccf6604ede6c846b1232ceda680e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6742fb0f851112e937f55c3efb1fbd56') in 0.022269 seconds
+  Import took 0.068278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.201009 seconds.
+  path: Assets/Graphics/enemys/spider/New Piskel (1).png
+  artifactKey: Guid(50ccf6604ede6c846b1232ceda680e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/New Piskel (1).png using Guid(50ccf6604ede6c846b1232ceda680e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '476c09ace67b2966c8c07955733c7b61') in 0.008979 seconds
+  Import took 0.018272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.641209 seconds.
+  path: Assets/Graphics/enemys/spider/New Piskel (1).png
+  artifactKey: Guid(50ccf6604ede6c846b1232ceda680e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/New Piskel (1).png using Guid(50ccf6604ede6c846b1232ceda680e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e80eb19e7472f584e59080f2a0e271c') in 0.018742 seconds
+  Import took 0.024329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.322401 seconds.
+  path: Assets/Graphics/enemys/spider/spider.png
+  artifactKey: Guid(5e9b85a78d8bb624bb6fa92748c250e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/spider.png using Guid(5e9b85a78d8bb624bb6fa92748c250e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34abafac993b395b85da01054bc0ab1f') in 0.010669 seconds
+  Import took 0.029157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.428774 seconds.
+  path: Assets/Graphics/enemys/spider/spider.png
+  artifactKey: Guid(5e9b85a78d8bb624bb6fa92748c250e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/spider.png using Guid(5e9b85a78d8bb624bb6fa92748c250e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4a962805c47cb2b46a85405c179e2a8') in 0.011506 seconds
+  Import took 0.041526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.626512 seconds.
+  path: Assets/Graphics/enemys/spider/spider.png
+  artifactKey: Guid(5e9b85a78d8bb624bb6fa92748c250e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/spider.png using Guid(5e9b85a78d8bb624bb6fa92748c250e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d3fdd0119611c1ed9c961dcb9148e55') in 0.008130 seconds
+  Import took 0.073849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.365043 seconds.
+  path: Assets/Graphics/Player/PlayerAnimation/Player_Run_NoLamp.anim
+  artifactKey: Guid(ce497aa341c6aa048ad58c73cbb87842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Player/PlayerAnimation/Player_Run_NoLamp.anim using Guid(ce497aa341c6aa048ad58c73cbb87842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5653499e5e5f0d687fd1efa0f8c35bef') in 0.030898 seconds
+  Import took 0.052122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.468673 seconds.
+  path: Assets/Graphics/enemys/spider/Spider_Idle.png
+  artifactKey: Guid(3c2924e233918cc48b642901ba1c422d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/Spider_Idle.png using Guid(3c2924e233918cc48b642901ba1c422d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07a2bcdf2de3c3d981e454bd129bf4cc') in 0.009099 seconds
+  Import took 0.030977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.350152 seconds.
+  path: Assets/Graphics/enemys/spider/Spider_Idle.png
+  artifactKey: Guid(3c2924e233918cc48b642901ba1c422d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/Spider_Idle.png using Guid(3c2924e233918cc48b642901ba1c422d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e8de0ede8885b878df5a0a710459e09') in 0.008549 seconds
+  Import took 0.013329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003124 seconds.
+  path: Assets/Graphics/enemys/spider/Spider_Idle.png
+  artifactKey: Guid(3c2924e233918cc48b642901ba1c422d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/Spider_Idle.png using Guid(3c2924e233918cc48b642901ba1c422d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e8de0ede8885b878df5a0a710459e09') in 0.008161 seconds
+  Import took 0.012910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.875161 seconds.
+  path: Assets/Graphics/enemys/spider/Spider_Idle.png
+  artifactKey: Guid(3c2924e233918cc48b642901ba1c422d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/Spider_Idle.png using Guid(3c2924e233918cc48b642901ba1c422d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ab0ecbba6d7c1ef279da6a9820295c3') in 0.006557 seconds
+  Import took 0.066221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.593568 seconds.
+  path: Assets/Graphics/enemys/spider/Spider_Idle.png
+  artifactKey: Guid(3c2924e233918cc48b642901ba1c422d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/Spider_Idle.png using Guid(3c2924e233918cc48b642901ba1c422d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e65c9190ffa0a134f88c64dbbec7c07') in 0.017251 seconds
+  Import took 0.064596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.074193 seconds.
+  path: Assets/Graphics/enemys/spider/spider.controller
+  artifactKey: Guid(690b7c60635bbea4b8cfdf63f96a27f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/spider.controller using Guid(690b7c60635bbea4b8cfdf63f96a27f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e7a41743e28c60856f4fc61553852d6') in 0.029412 seconds
+  Import took 0.034123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.041349 seconds.
+  path: Assets/Graphics/enemys/spider/SpiderIdelAnimation.anim
+  artifactKey: Guid(35e31f92ffae26746b895e1ae7c41185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/SpiderIdelAnimation.anim using Guid(35e31f92ffae26746b895e1ae7c41185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd3770fdb5bba14f4e79cd826de1f170') in 0.002912 seconds
+  Import took 0.026265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 100.355856 seconds.
+  path: Assets/Graphics/enemys/spider/Spider_Idle.png
+  artifactKey: Guid(3c2924e233918cc48b642901ba1c422d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/Spider_Idle.png using Guid(3c2924e233918cc48b642901ba1c422d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22dab96ca9097d4bec677dc80b6bf9ce') in 0.016121 seconds
+  Import took 0.021719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019466 seconds.
+  path: Assets/Graphics/enemys/spider/Spider_Idle.png
+  artifactKey: Guid(3c2924e233918cc48b642901ba1c422d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/Spider_Idle.png using Guid(3c2924e233918cc48b642901ba1c422d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22dab96ca9097d4bec677dc80b6bf9ce') in 0.009492 seconds
+  Import took 0.014296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 73.376130 seconds.
+  path: Assets/Graphics/enemys/spider/Spider_Walk.png
+  artifactKey: Guid(7a8169f4ba69b0e45892db7fdc7b0446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/Spider_Walk.png using Guid(7a8169f4ba69b0e45892db7fdc7b0446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e65f947d0c20e6a6edb79bfbce1e344') in 0.008391 seconds
+  Import took 0.013808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.611819 seconds.
+  path: Assets/Graphics/enemys/spider/Spider_Walk.png
+  artifactKey: Guid(7a8169f4ba69b0e45892db7fdc7b0446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/Spider_Walk.png using Guid(7a8169f4ba69b0e45892db7fdc7b0446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b52067e7f55501b2a3c8ac80175633d0') in 0.005651 seconds
+  Import took 0.011754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005855 seconds.
+  path: Assets/Graphics/enemys/spider/Spider_Walk.png
+  artifactKey: Guid(7a8169f4ba69b0e45892db7fdc7b0446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/Spider_Walk.png using Guid(7a8169f4ba69b0e45892db7fdc7b0446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b52067e7f55501b2a3c8ac80175633d0') in 0.005853 seconds
+  Import took 0.011041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.593795 seconds.
+  path: Assets/Graphics/enemys/spider/Spider_Walk.png
+  artifactKey: Guid(7a8169f4ba69b0e45892db7fdc7b0446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/Spider_Walk.png using Guid(7a8169f4ba69b0e45892db7fdc7b0446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '497df4c6197357dea9df9fc6ad802e99') in 0.015024 seconds
+  Import took 0.019891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002331 seconds.
+  path: Assets/Graphics/enemys/spider/Spider_Walk.png
+  artifactKey: Guid(7a8169f4ba69b0e45892db7fdc7b0446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/Spider_Walk.png using Guid(7a8169f4ba69b0e45892db7fdc7b0446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '497df4c6197357dea9df9fc6ad802e99') in 0.013280 seconds
+  Import took 0.017853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 191.070321 seconds.
+  path: Assets/Graphics/enemys/spider/spider.controller
+  artifactKey: Guid(690b7c60635bbea4b8cfdf63f96a27f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/spider.controller using Guid(690b7c60635bbea4b8cfdf63f96a27f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd7aa299ede4c0f79facaeb23275826b') in 0.003698 seconds
+  Import took 0.008710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008341 seconds.
+  path: Assets/Graphics/enemys/spider/SpiderIdelAnimation.anim
+  artifactKey: Guid(35e31f92ffae26746b895e1ae7c41185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/SpiderIdelAnimation.anim using Guid(35e31f92ffae26746b895e1ae7c41185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d2b9950e5774d75c29fba332980b1ae') in 0.002543 seconds
+  Import took 0.025800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Graphics/enemys/spider/SpiderWalkAnimation.anim
+  artifactKey: Guid(38077d62d1cb23b4f921f3b908606d6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/enemys/spider/SpiderWalkAnimation.anim using Guid(38077d62d1cb23b4f921f3b908606d6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7513e9c2e9844684712d6af671c236e') in 0.002769 seconds
+  Import took 0.007366 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001688 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.237 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2830 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.4 MB.
+System memory in use after: 128.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3598.
+Total: 3.423000 ms (FindLiveObjects: 0.378000 ms CreateObjectMapping: 0.088100 ms MarkObjects: 2.861900 ms  DeleteObjects: 0.093400 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
